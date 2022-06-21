@@ -1,2 +1,2 @@
 # bankistApp
-# <a href = "https://maimanhtuong.github.io/lab7+lab10/"> Live Demo </a>
+# <a href = "https://maimanhtuong.github.io/Js_GessMyNumberGame/"> Live Demo </a>
